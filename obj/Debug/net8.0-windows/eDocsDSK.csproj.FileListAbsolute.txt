@@ -1,0 +1,16 @@
+C:\Users\Gueta\bytheg\cdf\eDocsDSK\bin\Debug\net8.0-windows\eDocsDSK.exe
+C:\Users\Gueta\bytheg\cdf\eDocsDSK\bin\Debug\net8.0-windows\eDocsDSK.deps.json
+C:\Users\Gueta\bytheg\cdf\eDocsDSK\bin\Debug\net8.0-windows\eDocsDSK.runtimeconfig.json
+C:\Users\Gueta\bytheg\cdf\eDocsDSK\bin\Debug\net8.0-windows\eDocsDSK.dll
+C:\Users\Gueta\bytheg\cdf\eDocsDSK\bin\Debug\net8.0-windows\eDocsDSK.pdb
+C:\Users\Gueta\bytheg\cdf\eDocsDSK\obj\Debug\net8.0-windows\eDocsDSK.Form1.resources
+C:\Users\Gueta\bytheg\cdf\eDocsDSK\obj\Debug\net8.0-windows\eDocsDSK.csproj.GenerateResource.cache
+C:\Users\Gueta\bytheg\cdf\eDocsDSK\obj\Debug\net8.0-windows\eDocsDSK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gueta\bytheg\cdf\eDocsDSK\obj\Debug\net8.0-windows\eDocsDSK.AssemblyInfoInputs.cache
+C:\Users\Gueta\bytheg\cdf\eDocsDSK\obj\Debug\net8.0-windows\eDocsDSK.AssemblyInfo.cs
+C:\Users\Gueta\bytheg\cdf\eDocsDSK\obj\Debug\net8.0-windows\eDocsDSK.csproj.CoreCompileInputs.cache
+C:\Users\Gueta\bytheg\cdf\eDocsDSK\obj\Debug\net8.0-windows\eDocsDSK.dll
+C:\Users\Gueta\bytheg\cdf\eDocsDSK\obj\Debug\net8.0-windows\refint\eDocsDSK.dll
+C:\Users\Gueta\bytheg\cdf\eDocsDSK\obj\Debug\net8.0-windows\eDocsDSK.pdb
+C:\Users\Gueta\bytheg\cdf\eDocsDSK\obj\Debug\net8.0-windows\eDocsDSK.genruntimeconfig.cache
+C:\Users\Gueta\bytheg\cdf\eDocsDSK\obj\Debug\net8.0-windows\ref\eDocsDSK.dll
